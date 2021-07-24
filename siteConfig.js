@@ -59,11 +59,11 @@ module.exports = {
     ],
   },
   socialLinks: {
-    twitter: "https://twitter.com/draftboxhq",
-    facebook: "https://facebook.com/",
+    twitter: "#",
+    facebook: "#",
     instagram: "https://www.instagram.com/",
     linkedin: "https://linkedin.com/",
-    github: "https://github.com/draftbox-co",
+    github: "#",
     pinterest: "",
     youtube: "",
     dribbble: "",
@@ -98,10 +98,10 @@ module.exports = {
   siteDescription:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   language: "en",
-  logoUrl: "logo.png",
+  logoUrl: "wdplogo.svg",
   iconUrl: "favicon.png",
   coverUrl: "cover.jpg",
-  alternateLogoUrl: "logo.png",
+  alternateLogoUrl: "wdplogo.svg",
   themeConfig: {
     variables: [
       {
