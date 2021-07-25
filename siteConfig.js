@@ -34,7 +34,7 @@ module.exports = {
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "https://ajo.co.in",
     navigation: [
       {
         label: "Home",
@@ -72,11 +72,11 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Contact",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "Built",
     description:
       "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
   },
@@ -94,7 +94,7 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "Web Designer Pad",
   siteDescription:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   language: "en",
